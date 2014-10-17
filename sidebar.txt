@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[smt:home|Door43 (smt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-smt|d43-smt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-smt/archive/master.zip|d43-smt.zip]]
+
+**Recent Changes**
+{{changes>ns = smt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/smt|Ethnologue data]]
+
